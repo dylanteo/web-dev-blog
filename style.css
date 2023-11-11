@@ -1,0 +1,24 @@
+h2 {
+    color: #4b0082;
+  }
+  h3{
+    color: #ff1493;
+  }
+  h4{
+    color: cornflowerblue;
+  }
+  h5{
+    color: green;
+  }
+  #wk1{
+    color: red;
+  }
+  #wk2{
+    color:purple; font-family: 'Roboto', sans-serif;
+  }
+  #l1{
+    color:purple; background-color:black; font-family: 'Roboto', sans-serif; font-size: 25px;
+  }
+  #wk3{
+    color: orange; font-family: 'Edu TAS Beginner', cursive;
+  }
